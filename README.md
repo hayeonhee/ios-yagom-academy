@@ -1,4 +1,4 @@
-# iOS 커리어 스타터 캠프 ()
+# iOS 커리어 스타터 캠프
 🐻 [야곰 아카데미](https://www.yagom-academy.kr/) 
 ## 2021.10.04 ~ 
 | No  |      Project       |                                      Team                                       |                               Step1                                | Step2 |                 Reviewer                 |
