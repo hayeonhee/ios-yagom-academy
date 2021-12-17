@@ -1,5 +1,5 @@
 # iOS 커리어 스타터 캠프
-🗓 2021.10.04 ~    
+🗓 2021.10.04 ~ 2022.03.25   
 🐻 [야곰 아카데미](https://www.yagom-academy.kr/) 
 ## Projects 
 | No  |  **Project Repository**      |  Start  |  Finish   |                                      Team                                       | Step1 | Step2 | Step3 |                 Reviewer                 |
