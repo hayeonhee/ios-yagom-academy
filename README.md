@@ -1,9 +1,11 @@
 # [야곰 아카데미 커리어 스타터 캠프](https://www.yagom-academy.kr/camp/career-starter) 
-🗓 2021.10.04 ~ 2022.03.25   
+🗓 2021.10.04 ~ 2022.04.02   
 
 ## Projects 
 | No  |  **Project Repository**      |  Start  |  Finish   |                                      Team                                         | Step1 | Step2 | Step3 | Step4 |                 Reviewer                 |
 | :-: | :--------------------------: | :-------: | :-------: | :-----------------------------------------------------------------------------: | :---: | :---: | :---: | :---: | :--------------------------------------: |
+|  10  | [프로젝트 관리 앱](https://github.com/ye-ha/ios-open-market) |   2022.02.28   |   2022.03.25   | - | [PR](https://github.com/yagom-academy/ios-project-manager/pull/77) | [PR](https://github.com/yagom-academy/ios-project-manager/pull/84) | [PR](https://github.com/yagom-academy/ios-project-manager/pull/99) |    [PR](https://github.com/yagom-academy/ios-project-manager/pull/115)   | [@제이슨](https://github.com/ehgud0670) |  
+|  9  | [동기화 메모장](https://github.com/ye-ha/ios-open-market) |   2022.02.07   |   2022.02.25   | [@신나](https://github.com/smart8612) [@Nicholas](https://github.com/Kim-EunsooSilver) | [PR](https://github.com/yagom-academy/ios-cloud-notes/pull/83) | [PR]() | [PR]() |    -   | [@콘](https://github.com/protocorn93) |  
 |  8  | [오픈마켓 II](https://github.com/ye-ha/ios-open-market) |   2022.01.17   |   2022.01.28   | - | [PR](https://github.com/yagom-academy/ios-open-market/pull/126) | - | - |    -   | [@찰리](https://github.com/kcharliek) |  
 |  7  | [오픈마켓](https://github.com/ye-ha/ios-open-market) |   2022.01.03   |   2022.01.14   | [@숲재](https://github.com/yanghojoon) | [PR](https://github.com/yagom-academy/ios-open-market/pull/90) | [PR](https://github.com/yagom-academy/ios-open-market/pull/104) | - |    -   | [@쿠마](https://github.com/AppleCEO) |  
 |  6  | [은행 창구 매니저](https://github.com/ye-ha/ios-bank-manager) |   2021.12.20   |   2021.12.31   | [@호댕](https://github.com/yanghojoon) | [PR](https://github.com/yagom-academy/ios-bank-manager/pull/110) | [PR](https://github.com/yagom-academy/ios-bank-manager/pull/121) | [PR](https://github.com/yagom-academy/ios-bank-manager/pull/132)|    -   | [@도미닉](https://github.com/AppleCEO) |   
